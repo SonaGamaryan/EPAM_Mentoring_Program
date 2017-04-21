@@ -1,0 +1,18 @@
+{
+  "GreenBase": [
+	   {
+		  "name": "Broccoly",
+		  "weight": "35",
+		  "CalloriesPerUnit": "105",
+		  "WeightPerUnit": "55"
+	  },
+	  {
+		  "name": "Spinach",
+		  "weight": "30",
+		  "CalloriesPerUnit": "150",
+		  "WeightPerUnit": "55"
+	  }
+  ]
+  
+
+} 
